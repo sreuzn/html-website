@@ -1,3 +1,3 @@
 # html-website
-
-Preview link: https://github.com/sreuzn/html-website
+[
+Preview link: https://sreuzn.github.io/html-website/
